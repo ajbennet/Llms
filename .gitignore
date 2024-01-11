@@ -1,0 +1,6 @@
+smartdataanalyst/.cache/
+MLU-FT-LLMS-LAB/lora_model.tar.gz
+MLU-FT-LLMS-LAB/.ipynb_checkpoints/
+MLU-FT-LLMS-LAB/dolly-3b-lora/
+MLU-FT-LLMS-LAB/lora_model/
+MLU-FT-LLMS-LAB/mlu_utils/__pycache__/

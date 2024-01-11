@@ -1,0 +1,7 @@
+[
+    {
+        "model": "vicuna-7b-v1.5",
+        "api_key": "EMPTY",
+        "base_url": "http://localhost:8000/v1/"
+    }
+]
